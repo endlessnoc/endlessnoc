@@ -1,4 +1,6 @@
-### Hi, I'm Arthur Hsu! 👋
+### Hi, I'm Arthur Hsu! 👋  
+A conscientious undergraduate final-year student majoring in Finance at National Sun Yat-Sen University. Passionate about Quantitative Finance and Data with many courses and activities experience. Thrive on challenges, proactively seeking opportunities in the field of Quant, Data analytics, etc.  
+
 Info
 ======
 • Taipei, Taiwan  
