@@ -2,8 +2,7 @@
 Alt-Info
 ======
 Taipei, Taiwan  
-LinkedIn :(https://www.linkedin.com/in/weihsin-hsu/)
-
+(https://www.linkedin.com/in/weihsin-hsu/ "LinkedIn")
 
 
 
