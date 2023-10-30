@@ -1,5 +1,5 @@
 ### Hi, I'm Arthur Hsu! 👋
-Alt-Info
+Info
 ======
 Taipei, Taiwan  
 [LinkedIn](https://www.linkedin.com/in/weihsin-hsu/)
