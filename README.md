@@ -21,8 +21,8 @@ Info
 
 ⚡Competition
 ======
-• 2023 Practical Business Analysis Case Competition, NSYSU College of Management - First place.
-• 2023 International Quant Championship - World ranking 66/ 29000+ and qualified for Taiwan National Final Round.  
+• 2023 Practical Business Analysis Case Competition, NSYSU College of Management - First place.  
+• 2023 International Quant Championship - World ranking 66/ 29000+ and qualified for Taiwan National Final Round.    
 • 2022 WorldQuant BRAIN Global Alphathon - Ranked in the top 1.62% (204 / 12794) globally.  
 
 <!--
