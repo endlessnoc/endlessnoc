@@ -21,9 +21,9 @@ Info
 
 ⚡Competition
 ======
-• 2023 International Quant Championship, qualified for Taiwan National Final Round.  
-• 2023 International Quant Championship stage 1 qualifier, world ranking 66/ 29000+.  
-• 2022 WorldQuant BRAIN Global Alphathon, ranked in the top 1.62% (204 / 12794) globally.  
+• 2023 Practical Business Analysis Case Competition, NSYSU College of Management - First place.
+• 2023 International Quant Championship - World ranking 66/ 29000+ and qualified for Taiwan National Final Round.  
+• 2022 WorldQuant BRAIN Global Alphathon - Ranked in the top 1.62% (204 / 12794) globally.  
 
 <!--
 **endlessnoc/endlessnoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
