@@ -24,6 +24,16 @@ Info
 • 2023 International Quant Championship - World ranking 66/ 29000+ and qualified for Taiwan National Final Round.    
 • 2022 WorldQuant BRAIN Global Alphathon - Ranked in the top 1.62% (204 / 12794) globally.  
 
+🌱Self-study Courses Certificate   
+======  
+• Datacamp: Data Analyst with Python  
+• CFI: Data Science and Machine Learning Fundamentals  
+• Coursera: Finance&Quantitative Modeling for Analysts Specialization, Financial Technology Innovations Specialization, Excel Skills for Business Specialization  
+• Udemy: SAS Programming
+
+
+
+
 <!--
 **endlessnoc/endlessnoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
