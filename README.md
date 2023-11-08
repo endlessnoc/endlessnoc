@@ -1,5 +1,5 @@
 ### Hi, I'm Arthur Hsu! 👋  
-A conscientious undergraduate final-year student majoring in Finance at National Sun Yat-Sen University. Passionate about Quantitative Finance and Data with many courses and activities experience. "Thriving on challenge" is not just a motto for me but also an aspiration for my future career. 
+A conscientious undergraduate final-year student majoring in Finance at National Sun Yat-Sen University. Passionate about Quantitative Finance and Data Analytics with many courses and activities experience. "Thriving on challenge" is not just a motto for me but also an aspiration for my future career. 
 
 Info
 ======
