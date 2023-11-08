@@ -21,7 +21,7 @@ Info
 
 ⚡Competition
 ======
-• 2023 International Quant Championship - Ranked 66th out of 29000+ competitors in the globe and 9th in Taiwan, qualified for Taiwan National Final Round.   
+• 2023 International Quant Championship - Ranked 66th out of 29000+ competitors in the globe, qualified for Taiwan National Final Round.   
 • 2022 WorldQuant BRAIN Global Alphathon - Ranked in the top 1.62% (204 / 12794) globally in Stage 1 Qualifier, advanced to Stage 2.   
 
 🌱Self-study Courses Certificate   
