@@ -8,7 +8,7 @@ Info
 
 💡Experience  
 ======  
-• WorldQuant Research (Taiwan) LLC - BRAIN Research Consultant (_Present_)  
+• WorldQuant Research (Taiwan) LLC - BRAIN Research Consultant (_2023.4 - 2024.1_)  
 • China Development Financial Holding Corporation (2883:TT) - Digital Innovation Intern  (_2023.7 - 2023.8_)
 
 
