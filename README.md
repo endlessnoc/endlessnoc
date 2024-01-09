@@ -21,12 +21,13 @@ Info
 
 ⚡Competition
 ======
+• NSYSU Business Analysis Competition - 1st Place among 12 teams.   
 • 2023 International Quant Championship - Ranked 66th out of 29000+ competitors in the globe, qualified for Taiwan National Final Round.   
 • 2022 WorldQuant BRAIN Global Alphathon - Ranked in the top 1.62% (204 / 12794) globally in Stage 1 Qualifier, advanced to Stage 2.   
 
 🌱Self-study Courses Certificate   
 ======  
-• Datacamp: Data Analyst with Python  
+• Datacamp: Data Analyst with Python , Data Scientist Python, SQL for Business Analysts    
 • CFI: Data Science and Machine Learning Fundamentals  
 • Coursera: Finance&Quantitative Modeling for Analysts Specialization, Financial Technology Innovations Specialization, Excel Skills for Business Specialization  
 • Udemy: SAS Programming
