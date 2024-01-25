@@ -14,9 +14,10 @@ Info
 
 📚Education  
 ======  
-• National Sun-yat Sen University, major in Finance with an interdisciplinary program of Data Science  
-• Overall GPA: 3.9/4.3, last 60 GPA: 4.29/4.3  
-• Academic Excellence Award (Rank #1 in the semester)  
+• National Sun-yat Sen University, major in Finance with an interdisciplinary program in Data Science  (_2020.9 - 2024.1_)  
+• Overall GPA: 3.94/4.3, last 60 GPA: 4.29/4.3    
+• Academic Excellence Award (Rank #1 in the semester * 2 times)    
+• Early Graduation with Excellent Academic Achievement -Complete bachelor's degree one semester ahead of schedule.  
 
 
 ⚡Competition
@@ -27,9 +28,8 @@ Info
 
 🌱Self-study Courses Certificate   
 ======  
-• Datacamp: Data Analyst with Python , Data Scientist Python, SQL for Business Analysts    
-• CFI: Data Science and Machine Learning Fundamentals  
-• Coursera: Finance&Quantitative Modeling for Analysts Specialization, Financial Technology Innovations Specialization, Excel Skills for Business Specialization  
+• Datacamp: Data Analyst with Python, Data Scientist Python, SQL for Business Analysts     
+• Coursera: Google Data Analytics Professional Certificate, Finance&Quantitative Modeling for Analysts Specialization, Financial Technology Innovations Specialization, Excel Skills for Business Specialization  
 • Udemy: SAS Programming
 
 
