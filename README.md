@@ -17,7 +17,7 @@ Info
 • National Sun-yat Sen University, major in Finance with an interdisciplinary program in Data Science  (_2020.9 - 2024.1_)  
 • Overall GPA: 3.94/4.3, last 60 GPA: 4.29/4.3    
 • Academic Excellence Award (Rank #1 in the semester * 2 times)    
-• Early Graduation with Excellent Academic Achievement -Complete bachelor's degree one semester ahead of schedule.  
+• Early Graduation with Excellent Academic Achievement - Complete bachelor's degree one semester ahead of schedule.  
 
 
 ⚡Competition
