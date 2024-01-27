@@ -28,7 +28,7 @@ Info
 
 🌱Self-study Courses Certificate   
 ======  
-• Datacamp: Data Analyst with Python, Data Scientist Python, SQL for Business Analysts     
+• Datacamp: Data Analyst with Python, Data Scientist with Python, SQL for Business Analysts     
 • Coursera: Google Data Analytics Professional Certificate, Finance&Quantitative Modeling for Analysts Specialization, Financial Technology Innovations Specialization, Excel Skills for Business Specialization  
 • Udemy: SAS Programming
 
