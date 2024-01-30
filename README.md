@@ -5,7 +5,7 @@ Info
 ======
 • Taipei, Taiwan  
 • [LinkedIn](https://www.linkedin.com/in/weihsin-hsu/)
-
+• [Personal Website](https://weihsinhsuarthur.mystrikingly.com/)
 💡Experience  
 ======  
 • WorldQuant Research (Taiwan) LLC - BRAIN Research Consultant (_2023.4 - 2024.1_)  
