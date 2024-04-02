@@ -1,11 +1,11 @@
 ### Hi, I'm Arthur Hsu! 👋  
-A conscientious undergraduate final-year student majoring in Finance at National Sun Yat-Sen University. Passionate about Quantitative Finance and Data Analytics with many courses and activities experience. "Thriving on challenge" is not just a motto for me but also an aspiration for my future career. 
+A recent graduate majoring in Finance with an interdisciplinary program in Data Science at National Sun Yat-Sen University. Passionate about Quantitative Finance and Data Analytics, with diverse coursework and extracurricular experiences. Thrive on challenges, proactively seek opportunities to further my knowledge, leverage my skills, and contribute to success.  
 
 Info
 ======
 • Taipei, Taiwan  
 • [LinkedIn](https://www.linkedin.com/in/weihsin-hsu/)  
-• [Personal Website](https://weihsinhsuarthur.mystrikingly.com/)  
+• [Portfolio Website](https://weihsinhsuarthur.mystrikingly.com/)  
   
 💡Experience  
 ======  
@@ -15,22 +15,22 @@ Info
 
 📚Education  
 ======  
-• National Sun-yat Sen University, major in Finance with an interdisciplinary program in Data Science  (_2020.9 - 2024.1_)  
-• Overall GPA: 3.94/4.3, last 60 GPA: 4.29/4.3    
-• Academic Excellence Award (Rank #1 in the semester * 2 times)    
-• Early Graduation with Excellent Academic Achievement - Complete bachelor's degree one semester ahead of schedule.  
+• National Sun-yat Sen University(NSYSU), major in Finance with an interdisciplinary program in Data Science  (_2020.9 - 2024.1_)   
+• Overall GPA: 3.94/4.3, last 60 credits GPA: 4.29/4.3    
+• Academic Excellence Award (Rank #1 in the semester 2 times)    
+• Early Graduation with Excellent Academic Achievement - Complete bachelor's degree one semester ahead of schedule    
 
 
 ⚡Competition
 ======
-• NSYSU Business Analysis Competition - 1st Place among 12 teams.   
-• 2023 International Quant Championship - Ranked 66th out of 29000+ competitors in the globe, qualified for Taiwan National Final Round.   
-• 2022 WorldQuant BRAIN Global Alphathon - Ranked in the top 1.62% (204 / 12794) globally in Stage 1 Qualifier, advanced to Stage 2.   
+• NSYSU Business Analysis Competition - 1st Place among 12 teams     
+• 2023 International Quant Championship - Ranked 66th out of 29000+ competitors in the globe, qualified for Taiwan National Final Round  
+• 2022 WorldQuant BRAIN Global Alphathon - Ranked in the top 1.62% (204 / 12794) globally in Stage 1 Qualifier, advanced to Stage 2    
 
 🌱Self-study Courses Certificate   
 ======  
 • Datacamp: Data Analyst with Python, Data Scientist with Python, SQL for Business Analysts     
-• Coursera: Google Data Analytics Professional Certificate, Finance&Quantitative Modeling for Analysts Specialization, Financial Technology Innovations Specialization, Excel Skills for Business Specialization  
+• Coursera: Google Data Analytics Professional Certificate, Google Business Intelligence Certificate, Finance&Quantitative Modeling for Analysts Specialization, Financial Technology Innovations Specialization, Excel Skills for Business Specialization  
 • Udemy: SAS Programming
 
 
