@@ -4,8 +4,7 @@ A recent graduate majoring in Finance with an interdisciplinary program in Data 
 Info
 ======
 • Taipei, Taiwan  
-• [LinkedIn](https://www.linkedin.com/in/weihsin-hsu/)  
-• [Portfolio Website](https://weihsinhsuarthur.mystrikingly.com/)  
+• [LinkedIn](https://www.linkedin.com/in/weihsin-hsu/)   
   
 💡Experience  
 ======  
