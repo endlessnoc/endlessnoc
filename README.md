@@ -1,6 +1,5 @@
 ### Hi, I'm Arthur Hsu! 👋  
-A fresh graduate majoring in Finance with an interdisciplinary program in Data Science at National Sun Yat-Sen University. Passionate about Quantitative Finance and Data Analytics, with diverse courseworks and extracurricular experiences. Thrive on challenges, proactively seeking opportunities to further my knowledge, leverage my skills, and contribute to success.  
-
+   
 Info
 ======
 • Taipei, Taiwan  
