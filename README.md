@@ -1,6 +1,6 @@
 ### Hi, I'm Arthur Hsu! 👋  
 
-• London, United Kingdom
+• London, United Kingdom  
 • Taipei, Taiwan  
 
 Feel free to connect with me.
